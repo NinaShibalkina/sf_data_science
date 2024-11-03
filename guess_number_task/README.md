@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/NinaShibalkina/sf_data_science/blob/b34b7872fe9c9fd1b8cd40e21057c74e5826fd01/guess_number_task/README.md?plain=1#L11)  
+[2. Какой кейс решаем?](https://github.com/NinaShibalkina/sf_data_science/blob/b34b7872fe9c9fd1b8cd40e21057c74e5826fd01/guess_number_task/README.md?plain=1#L17)  
+[3. Краткая информация о данных](https://github.com/NinaShibalkina/sf_data_science/blob/b34b7872fe9c9fd1b8cd40e21057c74e5826fd01/guess_number_task/README.md?plain=1#L28)  
+[4. Этапы работы над проектом](https://github.com/NinaShibalkina/sf_data_science/blob/b34b7872fe9c9fd1b8cd40e21057c74e5826fd01/guess_number_task/README.md?plain=1#L20)  
+[5. Результат](https://github.com/NinaShibalkina/sf_data_science/blob/b34b7872fe9c9fd1b8cd40e21057c74e5826fd01/guess_number_task/README.md?plain=1#L25)    
+[6. Выводы](https://github.com/NinaShibalkina/sf_data_science/blob/b34b7872fe9c9fd1b8cd40e21057c74e5826fd01/guess_number_task/README.md?plain=1#L28) 
 
 ### Описание проекта    
 Программа угадывает загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/NinaShibalkina/sf_data_science/blob/b34b7872fe9c9fd1b8cd40e21057c74e5826fd01/guess_number_task/README.md?plain=1#L3)
 
 
 ### Какой кейс решаем?    
@@ -32,25 +32,4 @@
 ### Краткая информация о данных
 Ссылка на файл, сохраненный на Google диске (в задании указано "вставьте ссылку на большой файл с данными, который сохранили на Google Диске или в другом облачном хранилище")(https://colab.research.google.com/drive/1VhxPe8zvXS53CJ-Mv0Jj7ZRx7TiioSww?usp=sharing)
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-### Этапы работы над проектом  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-### Результаты:  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-### Выводы:  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+:arrow_up:[к оглавлению](https://github.com/NinaShibalkina/sf_data_science/blob/b34b7872fe9c9fd1b8cd40e21057c74e5826fd01/guess_number_task/README.md?plain=1#L3)
